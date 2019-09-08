@@ -6,7 +6,7 @@ Component | Brank
 -|-
 CPU | Intel i7 9700K
 MotherBoard | Gigabyte Z390M Gaming
-Memory | Corsair 16G DDR4 3200
+Memory | Corsair Vengeance 16G DDR4 3200
 Graphic Card | Dataland RX580 2304sp 8G
 SSD | Samsung 970evo 500G
 Net Card | BCM94360CD（Including BlueTooth）
