@@ -3,6 +3,7 @@ An Clover config of hackintosh, about Gigabyte Z390M Gaming.
 
 ## Computer Configuration
 Component | Brank
+-|-
 CPU | Intel i7 9700K
 MotherBoard | Gigabyte Z390M Gaming
 Memory | Corsair 16G DDR4 3200
