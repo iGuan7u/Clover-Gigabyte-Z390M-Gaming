@@ -1,6 +1,8 @@
 # CloverEFI
 An Clover config of hackintosh, about Gigabyte Z390M Gaming.
 
+![SystemInfo](./Resource/SystemInfo.png)
+
 ## Computer Configuration
 Component | Brank
 -|-
