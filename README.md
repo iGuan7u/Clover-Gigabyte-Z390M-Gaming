@@ -53,6 +53,7 @@ Comes from [tonymacx86](https://www.tonymacx86.com/threads/success-jbarnettes-bu
 ## Special Config
 - I caculate my own slide number of OsxAptioFix2Drv-free2000.efi as the Boot Option, you should replace it with your own.
 - USB3.0 is active by kexts/Other/USBPorts.kext. USBInjectALL.kext is unnecessary.
+- **Make sure GENERATE NEW Serial Number & SmUUID by yourself.**
 
 ## What Is Not Working.
 As far as I know, everything is working fine on it.
@@ -61,4 +62,6 @@ As far as I know, everything is working fine on it.
 - 1 time out of 10, booting fails in Clover with error `Couldn't allocate runtime area`. Reboot and try again and it works.
 - After the first Apple logo showing at the launch, graphic card start may cause a splash, and then show the second Apple logo.
 - Network would be **very very unstable** after awaking from sleep.
-    - Solved: Setting -> Energy Saver -> Close **Wake for Wi-Fi network access.
+    - Solved: Setting -> Energy Saver -> Close **Wake** for Wi-Fi network access.
+- iMovie/Final Cut Pro CRASH
+    - Solved: iGPU cause this problem, so I disable iGPU in BIOS, and change ProductName into **iMacPro1,1**, add releative boot argv enabling eGPU.
