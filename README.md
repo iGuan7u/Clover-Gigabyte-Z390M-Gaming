@@ -63,7 +63,7 @@ As far as I know, everything is working fine on it.
 ## Problems
 - 1 time out of 10, booting fails in Clover with error `Couldn't allocate runtime area`. Reboot and try again and it works.
 - After the first Apple logo showing at the launch, graphic card start may cause a splash, and then show the second Apple logo.
-- Network would be **very very unstable** after awaking from sleep.
-    - Solved: Setting -> Energy Saver -> Close **Wake** for Wi-Fi network access.
-- iMovie/Final Cut Pro CRASH
+- ~~Network would be **very very unstable** after awaking from sleep.~~
+    - Solved: Setting -> Energy Saver -> Close **Wake for Wi-Fi network access**.
+- ~~iMovie/Final Cut Pro CRASH~~
     - Solved: iGPU cause this problem, so I disable iGPU in BIOS, and change ProductName into **iMacPro1,1**, add releative boot argv enabling eGPU.
