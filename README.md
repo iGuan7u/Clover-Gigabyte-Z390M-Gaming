@@ -1,5 +1,8 @@
 # CloverEFI
-**Desprecated** You should move to OpenCore now, it is extraordinary!
+
+!!!!**Desprecated**!!!! 
+
+You should move to [OpenCore](https://github.com/iGuan7u/OpenCore-Gigabyte-Z390M-Gaming) now, it is extraordinary!
 
 An Clover config of hackintosh, about Gigabyte Z390M Gaming.
 
