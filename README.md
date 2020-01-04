@@ -1,4 +1,6 @@
 # CloverEFI
+**Desprecated** You should move to OpenCore now, it is extraordinary!
+
 An Clover config of hackintosh, about Gigabyte Z390M Gaming.
 
 ![SystemInfo](./Resource/SystemInfo.png)
